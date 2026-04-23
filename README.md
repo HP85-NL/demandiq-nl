@@ -63,6 +63,12 @@ A demand planner managing 3,000+ SKUs across 10 store locations cannot manually 
 ---
 
 ## Dashboard
+ 
+> 🔴 **[View the Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMmIyY2MxYjUtZjhkYS00MTcxLWIzYzMtM2Q0N2E4Mzk2YjRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
+---
+
+## Dashboard
 
 ### Home
 *Navigation hub with project summary and KPI overview*
