@@ -76,31 +76,31 @@ A demand planner managing 3,000+ SKUs across 10 store locations cannot manually 
 ---
 
 ### Executive Summary
-![Executive Summary](docs/screenshots/screenshot_executive_summary.png)
+![Executive Summary](screenshots/screenshot_executive_summary.png) 
 *€27.30M total revenue, 9M units, 740 SKUs across 10 stores. Revenue trend shows clear mid-year and Q4 seasonality aligned with Dutch retail calendar.*
 
 ---
 
 ### Stockout Risk
-![Stockout Risk](docs/screenshots/screenshot_stockout_risk.png)
+![Stockout Risk](screenshots/screenshot_stockout_risk.png)
 *13.17% of SKU × Store locations are HIGH risk. Voeding (Food) leads at 15.64% risk rate. SKU × Store detail table with conditional formatting enables immediate demand planner action.*
 
 ---
 
 ### Inventory Health
-![Inventory Health](docs/screenshots/screenshot_inventory_health.png)
+![Inventory Health](screenshots/screenshot_inventory_health.png)
 *Avg safety stock 5.47 units, reorder point 17.54 units, avg daily demand 2.43 units. Zuid-Holland carries the highest concentration of HIGH-risk scores. €593K annual saving identified vs manual 14-day rule.*
 
 ---
 
 ### Regional Performance
-![Regional Performance](docs/screenshots/screenshot_regional_performance.png)
+![Regional Performance](screenshots/screenshot_regional_performance.png)
 *Utrecht leads at €21.8M revenue — 80% of total portfolio. Regional revenue trend (2020–2025) shows diverging trajectories across Dutch provinces — critical input for store-level safety stock sizing.*
 
 ---
 
 ### Forecast vs Actual
-![Forecast vs Actual](docs/screenshots/screenshot_forecast_vs_actual.png)
+![Forecast vs Actual](screenshots/screenshot_forecast_vs_actual.png)
 *XGBoost predicted vs actual demand by SKU. Avg actual: 31.91 units, avg predicted: 29.46 units, avg absolute error: 7.44 units. Model tracks demand direction accurately across the full forecast horizon.*
 
 ---
@@ -349,8 +349,8 @@ The Dutch FMCG market is where I want to apply this thinking at scale. Companies
 
 If you are hiring for a role where data engineering, analytical thinking, and business context need to sit in the same person — I would like to talk.
 
-📧 your.email@example.com
-💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+📧 harshil.patel150@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/harshil-patel-188b2274/)
 
 ---
 
