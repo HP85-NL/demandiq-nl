@@ -35,7 +35,7 @@ Like most mid-size FMCG distributors, Patel Mart was managing inventory decision
 
 ## The Business Problem
 
-Two costly problems ran in parallel every single day at Patel Mart:
+Two costly problems ran in parallel every single day at Patel Mart: 
 
 - **Stockouts** — a SKU runs out. The shelf is empty. The customer walks to a competitor. Revenue is lost permanently and supplier relationships are damaged.
 - **Overstock** — too much inventory sits in the warehouse. Working capital is tied up. Products approaching expiry get discounted or written off entirely.
@@ -67,8 +67,6 @@ A demand planner managing 3,000+ SKUs across 10 store locations cannot manually 
 > 🔴 **[View the Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMmIyY2MxYjUtZjhkYS00MTcxLWIzYzMtM2Q0N2E4Mzk2YjRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
-
-## Dashboard
 
 ### Home
 *Navigation hub with project summary and KPI overview*
@@ -312,7 +310,7 @@ demandiq-nl/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/demandiq-nl.git
+git clone https://github.com/HP85-NL/demandiq-nl.git
 cd demandiq-nl
 
 # 2. Install Python dependencies
