@@ -341,11 +341,11 @@ jupyter notebook
 
 ## About
 
-I am a data analyst at Patel Mart B.V. with hands-on experience across the full analytics stack — SQL, Python, data modelling, machine learning, and BI reporting. DemandIQ NL is the internal system I built to replace manual inventory decisions with data-driven intelligence.
+I am a data analyst with hands-on experience across the full analytics stack — SQL, Python, data modelling, machine learning, and BI reporting. As a portfolio Project, DemandIQ NL is the internal system I built to replace manual inventory decisions with data-driven intelligence. My engineering and MBA in data analytics support me in the field of Data ana Business. 
 
 Most data projects stop at the analysis. This one does not. The pipeline goes from raw CSV ingestion through a production-grade star schema, into a benchmarked forecasting model, into a risk engine that produces actionable output at SKU × Store grain, and finally into a dashboard that a supply chain manager can open on Monday morning and know exactly where to focus. The business value layer closes the loop — translating model output into €2.37M of identifiable excess inventory and €593K in annual savings.
 
-The Dutch FMCG market is where I want to apply this thinking at scale. Companies like Unilever, Albert Heijn, and Jumbo operate at a level where better demand forecasting and smarter inventory decisions translate directly into revenue recovery, reduced waste, and stronger supplier relationships. That is the impact I want to work on.
+The Dutch FMCG market, especially supplychain and logistics domain is where I want to apply this thinking at scale. Companies like Unilever, Albert Heijn, and Jumbo operate at a level where better demand forecasting and smarter inventory decisions translate directly into revenue recovery, reduced waste, and stronger supplier relationships. That is the impact I want to work on.
 
 If you are hiring for a role where data engineering, analytical thinking, and business context need to sit in the same person — I would like to talk.
 
